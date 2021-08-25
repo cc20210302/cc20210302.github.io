@@ -1,0 +1,16 @@
+{
+  "id": "2768344",
+  "name": "简历",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1345499",
+      "name": "下滑",
+      "font_class": "xiahua",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}
